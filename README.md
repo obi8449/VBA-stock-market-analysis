@@ -16,3 +16,5 @@ The Excel macro created performs a comprehensive analysis of stock market data t
 
 
 **Images**
+![image](https://github.com/obi8449/VBA-Challenge/assets/120345543/0b8017a0-f483-463d-adc1-d1d5e14df31d)
+
